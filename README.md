@@ -1,3 +1,5 @@
+"The greater our knowledge increases, the greater our ignorance unfolds" (John F. Kennedy)
+
 ### Hi there 👋
 
   - 🔭 I’m currently working on a APIs web portal made with VueJS
@@ -6,4 +8,5 @@
   - 💬 Ask me about web design/development
   - 📫 How to reach me: @heberqc
   - 😄 Pronouns: He
-  - ⚡ Fun fact: I'm always looking for new music
+  - ⚡ Fun fact: I'm always looking for new music (https://open.spotify.com/user/12125027382?si=CeZkGf90SXycmCtdZrL7iA)
+  - Hablo español 🇵🇪 and an intermediate English 🇺🇸
