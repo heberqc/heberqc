@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-  - 🔭 I’m currently working on a APIs web portal made with VueJS
+  - 🔭 I’m currently working on an online complaints book made with Angular
   - 🌱 I’m currently learning how to share knowledge in a better way
   - 🤔 I’m looking for help with Js frameworks hard parts
   - 💬 Ask me about web design/development
